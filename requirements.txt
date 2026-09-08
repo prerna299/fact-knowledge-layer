@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+pymupdf
+google-genai
+sentence-transformers
+faiss-cpu
+pydantic
+python-dotenv
+numpy
+pandas
+pytest
