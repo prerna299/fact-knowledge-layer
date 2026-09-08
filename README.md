@@ -1,6 +1,6 @@
 # Fact Knowledge Layer
 
-A document intelligence system that extracts meaningful numerical and semantic facts from PDF documents, links each fact back to its source evidence, normalizes different representations, and identifies relationships between facts across documents.
+A document intelligence system that extracts meaningful numerical and semantic facts from PDF documents, links each fact back to its source evidence, normalizes different representations, and identifies relationships between facts across the documents.
 
 Built as part of the **Superjoin VIT 2026 Engineering Intern Hiring Assignment**.
 
