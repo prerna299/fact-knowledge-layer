@@ -641,7 +641,7 @@ Possible next steps include:
 # 🎥 Demo
 
 **Demo video:**
-`<ADD YOUR VIDEO LINK HERE>`
+`https://fact-knowledge-layer-bnf54joyj5quqtzblckotq.streamlit.app/`
 
 The demonstration will show:
 
