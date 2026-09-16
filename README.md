@@ -2,8 +2,6 @@
 
 A document intelligence system that extracts meaningful numerical and semantic facts from PDF documents, links each fact back to its source evidence, normalizes different representations, and identifies relationships between facts across the documents.
 
-Built as part of the **Superjoin VIT 2026 Engineering Intern Hiring Assignment**.
-
 ---
 
 ## 🚀 Overview
@@ -637,9 +635,9 @@ Possible next steps include:
 
 ---
 
-# 🎥 Demo
+# 🎥 Application
 
-**Demo video:**
+**Live Link:**
 `https://fact-knowledge-layer-bnf54joyj5quqtzblckotq.streamlit.app/`
 
 The demonstration will show:
